@@ -1,0 +1,7 @@
+[
+  {"transaction_id":"T0001","employee_id":"E101","period_end":"2026-11-08","paycode":"REG","hours":40.0,"approved":true},
+  {"transaction_id":"T0002","employee_id":"E101","period_end":"2026-11-08","paycode":"OT","hours":5.0,"approved":true},
+  {"transaction_id":"T0003","employee_id":"E102","period_end":"2026-11-08","paycode":"SICK","hours":8.0,"approved":true},
+  {"transaction_id":"T0004","employee_id":"E103","period_end":"2026-11-08","paycode":"REG","hours":32.0,"approved":true},
+  {"transaction_id":"T0005","employee_id":"E104","period_end":"2026-11-08","paycode":"REG","hours":8.0,"approved":false}
+]
